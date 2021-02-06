@@ -1,0 +1,121 @@
+h1{
+  margin-top: 110px;
+  margin-left: 243px;
+  font-family: 'PT Serif', serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 36px;
+  line-height: 48px;
+}
+
+h2{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 27px;
+  margin-top: 110px;
+  padding-left: 215px;
+}
+
+h4{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 27px;
+  margin-left: 215px;
+  width: 300px;
+  margin-top: 10px;
+}
+
+h3{
+  clear: left;
+}
+
+/* BOXES */
+
+.first-box{
+  margin-left: 240px;
+  margin-top: 87.5px;
+  width: 264px;
+height: 383px;
+
+}
+
+.second-box{
+margin-left: 56.64px;
+margin-top: 239px;
+width: 305.21px;
+height: 471px;
+}
+
+.third-box{
+  width: 300.81px;
+height: 399.96px;
+margin-left: 23.69px;
+margin-top: 96px;
+}
+
+.fourth-box{
+  width: 276.68px;
+height: 469px;
+margin-left: 241px;
+margin-top: 47px;
+}
+
+.fifth-box{
+  width: 274.36px;
+height: 360px;
+margin-left: 16.96px;
+margin-top: 126px;
+}
+
+.sixth-box{
+  width: 335.75px;
+height: 449px;
+margin-top: 83px;
+margin-left: 55.69px;
+}
+/* PHOTOS */
+
+.photo1{
+  width: 238px;
+height: 341px;
+float: left;
+}
+
+.photo2{
+  width: 238px;
+height: 347px;
+float: left;
+
+}
+
+.photo3{
+  width: 238px;
+height: 341px;
+float: left;
+
+}
+
+.photo4{
+  width: 237px;
+height: 341px;
+float: left;
+
+}
+
+.photo5{
+  width: 238px;
+height: 347px;
+float: left;
+
+}
+
+.photo6{
+  width: 237px;
+height: 341px;
+float: left;
+
+}
